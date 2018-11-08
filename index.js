@@ -1,5 +1,4 @@
 const StaticmanAPI = require('./server')
-const env = require('dotenv').config()
 
 const api = new StaticmanAPI()
 
